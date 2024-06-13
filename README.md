@@ -3,11 +3,17 @@ This is a personal portfolio website built using the Django framework along with
 
 
 Home Page: Introduction and summary of my professional profile.
+
 About Me: Detailed information about my background, education, and interests.
+
 Projects: Showcase of various projects I've worked on, with descriptions and links.
+
 Skills: List of technical and soft skills.
+
 Contact: Contact form to get in touch with me.
+
 Technologies Used
+
 Framework: Django
 Languages: HTML, CSS, JavaScript (or SCSS)
 Database: MySQL 
